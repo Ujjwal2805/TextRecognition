@@ -1,5 +1,5 @@
 # Text-Extractor-From-Image
-url https://uniqueapi.azurewebsites.net/
+
 It Is A Simple Program To Extract Text From Image. Text Can Be Hand Written Or Typed but in image format.
 Get Text is a simple cloud-enabled and mobile-ready program built using azure cognitive services i.e. Computer vision and Speech services API.
 
@@ -9,7 +9,7 @@ Features
 Simple and clean UI.
 It is hosted on azure web apps.
 Backend Framework : Django.
-For front end it uses HTML, CSS and JavaScript.
+For front end it uses HTML and CSS template.
 Easy to use and extract text from image.
 User can convert extacted text to speech with one click.
 Django App is deployed on azure web apps, url https://uniqueapi.azurewebsites.net/
