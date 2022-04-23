@@ -1,6 +1,5 @@
 # Text-Extractor-From-Image
 
-Project Demo Video on Local Host:- https://youtu.be/IxGIXsC8gGQ (since hosted application is running into error)
 
 Web Application to extract Text From Image, Text Can Be Hand Written Or Typed but in image format and convert the extracted text into word format.
 
